@@ -1,2 +1,2 @@
 # DP-Adaptor-pattern
-DP-Adapter Pattern
+DP-Adapter Pattern Hands-on
